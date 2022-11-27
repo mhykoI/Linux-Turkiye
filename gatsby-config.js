@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     title: 'Linux Türkiye',
     description: 'Linux Türkiye Kullanıcıları Topluluğu',
-    siteUrl: 'linuxtr.github.io',
+    siteUrl: 'https://mhykoi.github.io/Linux-Turkiye/',
     author: '',
   },
   plugins: [
